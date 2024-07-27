@@ -1,7 +1,4 @@
-sample_submission.csv
-test.csv
-test_tfidf_features.csv
-train.csv
-train_tfidf_features.csv
 dataset
 .ipynb_checkpoints
+.conda
+predictions
